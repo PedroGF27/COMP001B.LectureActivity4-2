@@ -1,18 +1,41 @@
 h1 {
     justify-content: center;
+    color: white;
+}
+
+h2 {
+    color: white;
 }
 
 nav {
     padding: 1em;
-    background-color: brown;
+    background-color: red;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: white;
+
+}
+
+.links{
+    display: flex;
+    justify-content: space-around;
+}
+
+p {
+    color: white;
+}
+
+h3 {
+    color: white;
 }
 
 #button {
     background-color: aqua;
     border-width: 4px;
+    border-color: white;
     font-size: 15px;
 }
 
 body {
-
+    background-color: black; 
 }
