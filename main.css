@@ -1,0 +1,18 @@
+h1 {
+    justify-content: center;
+}
+
+nav {
+    padding: 1em;
+    background-color: brown;
+}
+
+#button {
+    background-color: aqua;
+    border-width: 4px;
+    font-size: 15px;
+}
+
+body {
+
+}
